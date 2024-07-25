@@ -9,7 +9,7 @@ export default function About() {
             Olá, bem-vindo ao meu portfolio!
             {/* <br className="hidden lg:inline-block" />Full-Stack Developer */}
           </h1>
-          <p className="mb-8 leading-relaxed my-2 text-gray-800">
+          <p className="mb-8 leading-relaxed my-2 text-gray-900 title-font sm:text-1xl mb-2">
             Desenvolvedor Full-Stack com mais de 1 ano de experiência na área.
           </p>
           <div className="flex justify-center">

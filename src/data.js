@@ -36,25 +36,29 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "Em minha primeira experiência profissional, estagiei por 4 meses em modelo Home Office como Analista de Dados. Responsável por criar banco de dados MySQL, Dashboard BI, extrair insights e criar UI/UX Design.",
+    // image: "https://randomuser.me/api/portraits/men/1.jpg",
+    name: "Estagiário Analista de Dados",
+    company: "Instituto Favelar",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Em 8 de janeiro de 2024, tive a oportunidade de iniciar como Desenvolvedor Junior, tempo integral em modalidade presencial. Por aqui, entendi que apenas 'codar' não é o suficiente, é necessário entender todas as stacks de desenvolvimento da aplicação, desde o planejamento ao deploy da mesma.",
+    // image: "https://randomuser.me/api/portraits/men/94.jpg",
+    name: "Desenvolvedor Full-Stack",
+    company: "Segurobet",
   },
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Node.js",
+  "React.js",
+  "Express",
+  "Tailwind",
+  "Python",
+  "Typescript",
+  "Flask",
+  "Deploy",
+  "NoSQL (MongoDB | AWS DynamoDB | Firebase)",
+  "MySQL (PostgreSQL | MySQL Workbench | SQLite)",
 ];

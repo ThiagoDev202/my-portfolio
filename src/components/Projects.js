@@ -12,7 +12,7 @@ export default function Projects() {
             Portfolio
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Tecnologias usadas: Nodejs, Next/Vite, Reactjs, Express, MongoDB e Tailwind
+            Node.js | Next/Vite | React.js | Typescript | Tailwind | Express.js | MongoDB | SQLite | Firebase
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
