@@ -1,11 +1,12 @@
-*Meu website pessonal - Porfolio
+# Meu website pessonal - Porfolio
 
 <br>
-- Alterar Descrição Portfolio<br>
-- Whatsap button - meu contato<br>
-- Configuração do envio de email<br>
-- Deploy<br>
 
-** Technologies<br>
+## Technologies<br>
 - React.js<br>
 - Tailwind<br>
+
+ Deploy Netlify<br>
+
+<br>
+ ![Imagem do Website](./public/mywebsite.png)
