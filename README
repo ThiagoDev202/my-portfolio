@@ -1,11 +1,10 @@
 # Meu Website Pessoal - Portfolio
 
-[https://thiagofernandeswebsite.netlify.app/](https://thiagofernandeswebsite.netlify.app/)<br>
+https://thiagofernandeswebsite.netlify.app/
 
-![Imagem do Website](./public/mywebsite.png)<br>
+![Imagem do Website](./public/mywebsite.png)
 
 ## Tecnologias
 
-- React.js<br>
-- Tailwind CSS<br>
-
+- React.js
+- Tailwind CSS
