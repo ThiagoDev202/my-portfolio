@@ -64,7 +64,7 @@ export default function Contact() {
               <p className="leading-relaxed">
             +55 (85) 9 9266-8904
             <a
-              href="https://api.whatsapp.com/send?phone=55992668904"
+              href="https://api.whatsapp.com/send?phone=5585992668904&text="
               target="_blank"
               rel="noopener noreferrer"
               className="ml-2 inline-block flex items-center leading-relaxed"
@@ -85,13 +85,9 @@ export default function Contact() {
       name="contact"
       onSubmit={handleSubmit}
       className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0 bg-gray-900 border border-gray-800 rounded-lg p-6">
-      <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font text-xl font-bold mt-5" style={{ fontFamily: 'Roboto, sans-serif' }}>
+      <h2 className="text-white sm:text-4xl text-3xl mb-5 font-medium title-font text-xl font-bold mt-5" style={{ fontFamily: 'Roboto, sans-serif' }}>
         Enviar E-mail
       </h2>
-      <p className="leading-relaxed mb-5 title-font font-bold text-gray-900 text-xl">
-        Envie-me um e-mail
-      </p>
-
       <div className="relative mb-4">
         <label htmlFor="name" className="leading-7 text-sm text-gray-400">
           Name

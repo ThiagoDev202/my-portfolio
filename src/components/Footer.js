@@ -3,8 +3,8 @@ import React from "react";
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white mt-20">
-      <div className="flex justify-center items-center sm:px-12 px-4 bg-[#ffffff19] py-7">
-      <h1 className="text-5xl md:text-4xl mb-0 leading-tight font-bold text-teal-600 mt-5 shadow-lg">
+      <div className="flex justify-center items-center sm:px-12 px-4 py-7">
+      <h1 className="text-5xl md:text-4xl mb-0 leading-tight font-bold text-teal-600 mt-5">
         <span className="text-teal-600 mb-10">Para mais informações</span>
       </h1>
       </div>
@@ -23,11 +23,11 @@ const Footer = () => {
           </p>
           <p className="mt-2">
             <a href="https://www.dropbox.com/scl/fi/6kroitx8qypxzkty4nlfo/Profile.pdf?rlkey=ose0xwuftywvunmkq93o3ejr4&dl=1" className="text-teal-400 hover:underline hover:text-green-500" download="Curriculo Thiago Fernandes.pdf">
-                Curriculo
+                Currículo
             </a>
           </p>
           <p className="mt-2">
-            <a href="https://api.whatsapp.com/send?phone=55992668904" className="text-teal-400 hover:underline hover:text-green-500">
+            <a href="https://api.whatsapp.com/send?phone=5585992668904&text=" className="text-teal-400 hover:underline hover:text-green-500">
                 WhatsApp
             </a>
           </p>

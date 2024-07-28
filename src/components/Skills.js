@@ -12,7 +12,7 @@ export default function Skills() {
             Skills &amp; Tecnologias
           </h1>
           <p className="text-base text-4xl leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto font-bold text-gray-900 font-size title-font font-bold body-font font-medium title-font body-font">
-          Habilidades<span className="ml-1" role="img" aria-label="cérebro emoji">🧠</span>
+          Habilidades<span className="ml-1" role="img" aria-label="cérebro emoji"></span>
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

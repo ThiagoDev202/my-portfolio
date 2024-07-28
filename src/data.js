@@ -3,7 +3,7 @@ export const projects = [
     title: "Ecommerce-app",
     subtitle: "MERN Stack",
     description:
-      "Aplicação Fullstack, frontend feito com React(Redux; React_Bootstrap). BackEnd feito com Node(mongoose; JWT; Stripe; bcrypt;), Express.js, MongoDB NoSQL",
+      "Aplicação Fullstack, frontend feito com React(Redux; React_Bootstrap). BackEnd feito com Node(Prisma; JWT; Stripe; bcrypt;), Express.js, MongoDB-mongoose.",
     image: "./project-1.gif",
     link: "https://github.com/ThiagoDev202/ecommerce-app",
   },
