@@ -8,10 +8,10 @@ export const projects = [
     link: "https://github.com/ThiagoDev202/ecommerce-app",
   },
   {
-    title: "FRONTEND-APP",
-    subtitle: "React.js App",
+    title: "Playlist-Music",
+    subtitle: "SPOTIFY",
     description:
-      "App feito com React.js puro, uma aplicação para realizar uploads, onde tive uma problemática e consequentemente aprendizado de conversão de arquivo, padrão de dados e large upload file.",
+      "App feito com React.js e Next.js, no qual o usuário pesquisa por suas músicas favoritas e adiciona-as à sua playlist, sendo possível realizar upload da mesma pelo frontend.",
     image: "./project-2.gif",
     link: "https://github.com/ThiagoDev202/frontend-app",
   },
@@ -19,12 +19,12 @@ export const projects = [
     title: "DevChat",
     subtitle: "RECIPE-APP",
     description:
-      "DevChat é uma aplicação que possui boas práticas de desenvolvimento, senhas hashs, JWToken de acesso etc. BackEnd com Node, Express, Prisma com TypeScript. FrontEnd com React básico e Vite, também feito com Typescript.",
+      "DevChat é uma aplicação que possui boas práticas de desenvolvimento, senhas hashs, JWToken de acesso etc. BackEnd com Node, Express e Prisma, com TypeScript. FrontEnd com React e Vite, também feito com Typescript.",
     image: "./project-3.gif",
     link: "https://github.com/ThiagoDev202/recipe-app",
   },
   {
-    title: "todo-app",
+    title: "Todo-app",
     subtitle: "CHECK-LIST",
     description:
       "Aplicação básica de FrontEnd para aprendizado de adicionar, remover e excluir componentes, habilidades essenciais para uma imersão ao desenvolvimento de aplicações web, usamos diariamente estes aprendizados. Feito com React.js e Next.js",
@@ -37,14 +37,12 @@ export const testimonials = [
   {
     quote:
       "Em minha primeira experiência profissional, estagiei por 4 meses em modelo Home Office como Analista de Dados. Responsável por criar banco de dados MySQL, Dashboard BI, extrair insights e criar UI/UX Design.",
-    // image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Estagiário Analista de Dados",
     company: "Instituto Favelar",
   },
   {
     quote:
       "Em 8 de janeiro de 2024, tive a oportunidade de iniciar como Desenvolvedor Junior, tempo integral em modalidade presencial. Por aqui, entendi que apenas 'codar' não é o suficiente, é necessário entender todas as stacks de desenvolvimento da aplicação, desde o planejamento ao deploy da mesma.",
-    // image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Desenvolvedor Full-Stack",
     company: "Segurobet",
   },
@@ -60,5 +58,5 @@ export const skills = [
   "Flask",
   "Deploy",
   "NoSQL (MongoDB | AWS DynamoDB | Firebase)",
-  "MySQL (PostgreSQL | MySQL Workbench | SQLite)",
+  "MySQL (PostgreSQL | MySQL Server | SQLite)",
 ];

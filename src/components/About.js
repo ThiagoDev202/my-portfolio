@@ -7,9 +7,8 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl font-bold mb-4 font-medium text-gray-800">
             Olá, bem-vindo ao meu portfolio!
-            {/* <br className="hidden lg:inline-block" />Full-Stack Developer */}
           </h1>
-          <p className="mb-8 leading-relaxed my-2 text-gray-900 title-font sm:text-1xl mb-2">
+          <p className="mb-8 leading-relaxed my-2 text-gray-900 title-font sm:text-1xl mb-2" style={{ fontFamily: 'Roboto, sans-serif' }}>
             Desenvolvedor Full-Stack com mais de 1 ano de experiência na área.
           </p>
           <div className="flex justify-center">
