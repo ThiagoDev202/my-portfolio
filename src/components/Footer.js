@@ -33,9 +33,9 @@ const Footer = () => {
           </p>
         </div>
         <div>
-        <span className="text-2xl font-body font-title font-semibold text-green-500" style={{ fontFamily: 'Roboto, sans-serif' }}>
-          Feito Por Thiago Fernandes
-        </span>
+          <span className="text-xl font-bold text-teal-900" style={{ fontFamily: 'Roboto, sans-serif' }}>
+            Feito Por Thiago Fernandes
+          </span>
         </div>
         <div>
           <span className="mt-1 text-gray-400" style={{ fontFamily: 'Roboto, sans-serif' }}>Made w/ React & Tailwind</span>
