@@ -8,18 +8,22 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl font-bold mb-4 font-medium text-gray-800">
             Olá, bem-vindo ao meu portfolio!
           </h1>
-          <p className="mb-8 leading-relaxed my-2 text-gray-900 title-font sm:text-1xl mb-2" style={{ fontFamily: 'Roboto, sans-serif' }}>
-            Desenvolvedor Full-Stack com mais de 1 ano de experiência na área.
+          <p className=" mb-8 mt-2 title-font sm:text-base text-sm font-medium text-gray-800 leading-relaxed my-1" style={{ fontFamily: 'Poppins, sans-serif' }}>
+            Desenvolvedor Full-Stack com mais de 1 ano de experiência.
           </p>
           <div className="flex justify-center">
             <a
               href="#contact"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
+              style={{ fontFamily: 'Poppins, sans-serif', fontWeight: 400 }}
+            >
               Contato
             </a>
             <a
               href="#projects"
-              className="ml-4 inline-flex text-white bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+              className="ml-4 inline-flex text-white bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
+              style={{ fontFamily: 'Poppins, sans-serif', fontWeight: 400 }}
+              >
               Veja meus projetos
             </a>
           </div>

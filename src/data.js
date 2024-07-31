@@ -27,7 +27,7 @@ export const projects = [
     title: "Todo-app",
     subtitle: "CHECK-LIST",
     description:
-      "Aplicação básica de FrontEnd para aprendizado de adicionar, remover e excluir componentes, habilidades essenciais para uma imersão ao desenvolvimento de aplicações web, usamos diariamente estes aprendizados. Feito com React.js e Next.js",
+      "Aplicação FrontEnd para aprendizado de adicionar, remover, excluir e modificar componentes, habilidades essenciais para uma imersão ao desenvolvimento de aplicações web, usamos diariamente estes aprendizados. Feito com React.js e Next.js",
     image: "./project-4.gif",
     link: "https://github.com/ThiagoDev202/todo-app",
   },
