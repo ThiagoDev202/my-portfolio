@@ -48,15 +48,30 @@ export const testimonials = [
   },
 ];
 
+// export const skills = [
+//   "Node.js",
+//   "React.js",
+//   "Express.js",
+//   "Tailwind",
+//   "Python",
+//   "Typescript",
+//   "Flask",
+//   "Next.js",
+//   "MongoDB",
+//   "MySQL Server",
+// ];
+
+
 export const skills = [
   "Node.js",
   "React.js",
-  "Express",
-  "Tailwind",
-  "Python",
   "Typescript",
+  "Tailwind",
+  "Express.js",
+  "Next.js",
   "Flask",
-  "Deploy",
-  "NoSQL (MongoDB | AWS DynamoDB | Firebase)",
-  "MySQL (PostgreSQL | MySQL Server | SQLite)",
+  "MongoDB",
+  "Python",
+  "MySQL Server",
 ];
+

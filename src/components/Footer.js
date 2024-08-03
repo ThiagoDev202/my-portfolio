@@ -1,6 +1,7 @@
 import React from "react";
 import { FaLinkedin, FaGithub, FaFilePdf, FaWhatsapp } from "react-icons/fa";
 
+
 const Footer = () => {
   return (
     <footer className="bg-gradient-to-r from-gray-900 via-gray-800 to-gray-700 text-white mt-20">

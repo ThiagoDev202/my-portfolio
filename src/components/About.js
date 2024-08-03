@@ -6,7 +6,7 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl font-bold mb-4 font-medium text-gray-800">
-            Olá, bem-vindo ao meu portfolio!
+            Olá, bem-vindo ao meu portfólio!
           </h1>
           <p className=" mb-8 mt-2 title-font sm:text-base text-sm font-medium text-gray-800 leading-relaxed my-1" style={{ fontFamily: 'Poppins, sans-serif' }}>
             Desenvolvedor Full-Stack com mais de 1 ano de experiência.
