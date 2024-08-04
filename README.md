@@ -1,5 +1,5 @@
 # Portfolio
 
-## Website pessoal feito com React.js e Tailwind.
+## Personal website made with React.js and Tailwind
 
 ### https://thiagofernandes.netlify.app
