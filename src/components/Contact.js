@@ -84,7 +84,7 @@ export default function Contact() {
       onSubmit={handleSubmit}
       className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0 bg-gray-900 border border-gray-800 rounded-lg p-6">
       <h2 className="text-white sm:text-4xl text-3xl mb-5 font-medium title-font text-xl font-bold mt-5" sstyle={{ fontFamily: 'Poppins, sans-serif', fontWeight: 400 }} >
-        Enviar email
+        Send email
       </h2>
       <div className="relative mb-4" style={{ fontFamily: 'Poppins, sans-serif', fontWeight: 400 }}>
         <label htmlFor="name" className="leading-7 text-sm text-gray-400">
