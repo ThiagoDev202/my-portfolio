@@ -3,15 +3,15 @@ export const projects = [
     title: "Ecommerce-app",
     subtitle: "MERN Stack",
     description:
-      "Aplicação Fullstack, frontend feito com React(Redux; React_Bootstrap). BackEnd feito com Node(mongoose; JWT; Stripe; bcrypt;), Express.js, MongoDB NoSQL",
+      "Fullstack application, frontend developed with React (Redux; React-Bootstrap). Backend developed with Node (Prisma; JWT; Stripe; bcrypt), Express.js, and MongoDB with Mongoose.",
     image: "./project-1.gif",
     link: "https://github.com/ThiagoDev202/ecommerce-app",
   },
   {
-    title: "FRONTEND-APP",
-    subtitle: "React.js App",
+    title: "Playlist-Music",
+    subtitle: "SPOTIFY",
     description:
-      "App feito com React.js puro, uma aplicação para realizar uploads, onde tive uma problemática e consequentemente aprendizado de conversão de arquivo, padrão de dados e large upload file.",
+      "App developed with React.js and Next.js, where users can search for their favorite songs and add them to their playlist, with the capability to upload the playlist through the frontend.",
     image: "./project-2.gif",
     link: "https://github.com/ThiagoDev202/frontend-app",
   },
@@ -19,15 +19,15 @@ export const projects = [
     title: "DevChat",
     subtitle: "RECIPE-APP",
     description:
-      "DevChat é uma aplicação que possui boas práticas de desenvolvimento, senhas hashs, JWToken de acesso etc. BackEnd com Node, Express, Prisma com TypeScript. FrontEnd com React básico e Vite, também feito com Typescript.",
+      "DevChat is an application that follows best development practices, including hashed passwords, access JWTs, etc. The Backend is built with Node, Express, and Prisma, using TypeScript. The frontend is developed with React and Vite using TypeScript.",
     image: "./project-3.gif",
     link: "https://github.com/ThiagoDev202/recipe-app",
   },
   {
-    title: "todo-app",
+    title: "Todo-app",
     subtitle: "CHECK-LIST",
     description:
-      "Aplicação básica de FrontEnd para aprendizado de adicionar, remover e excluir componentes, habilidades essenciais para uma imersão ao desenvolvimento de aplicações web, usamos diariamente estes aprendizados. Feito com React.js e Next.js",
+      "Frontend application for learning to add, remove, delete, and modify components—essential skills for diving into web application development, which we use daily. This app was made with React.js, Next.js and MongoDB to store events.",
     image: "./project-4.gif",
     link: "https://github.com/ThiagoDev202/todo-app",
   },
@@ -36,16 +36,14 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Em minha primeira experiência profissional, estagiei por 4 meses em modelo Home Office como Analista de Dados. Responsável por criar banco de dados MySQL, Dashboard BI, extrair insights e criar UI/UX Design.",
-    // image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Estagiário Analista de Dados",
+    "In my first professional experience, I interned for 4 months in a home office model as a Data Analyst. I was responsible for creating MySQL databases, developing BI dashboards, extracting insights, and designing UI/UX.",
+    name: "Data Analyst Intern",
     company: "Instituto Favelar",
   },
   {
     quote:
-      "Em 8 de janeiro de 2024, tive a oportunidade de iniciar como Desenvolvedor Junior, tempo integral em modalidade presencial. Por aqui, entendi que apenas 'codar' não é o suficiente, é necessário entender todas as stacks de desenvolvimento da aplicação, desde o planejamento ao deploy da mesma.",
-    // image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Desenvolvedor Full-Stack",
+    "On Jan 8, 2024, I had the opportunity to start as a Junior Developer. I was responsible for rewriting and maintaining ChatBots using Node and React with TypeScript, utilizing Firestore as the cloud database. Additionally, I managed the backend server, which handled sending messages.",
+    name: "Full Stack Developer",
     company: "Segurobet",
   },
 ];
@@ -53,12 +51,12 @@ export const testimonials = [
 export const skills = [
   "Node.js",
   "React.js",
-  "Express",
-  "Tailwind",
-  "Python",
   "Typescript",
+  "Tailwind",
+  "Express.js",
+  "Next.js",
+  "Python",
+  "MongoDB",
   "Flask",
-  "Deploy",
-  "NoSQL (MongoDB | AWS DynamoDB | Firebase)",
-  "MySQL (PostgreSQL | MySQL Workbench | SQLite)",
+  "MySQL Server",
 ];
